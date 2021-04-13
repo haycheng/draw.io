@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:35:42.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.1.2" etag="Rh8DuhAoXiE0WZDir4uS" type="github"><diagram id="TcDBp-x5wX-hLU5BOLYg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T07:53:16.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="VmxD-SM0rIlcaTVkkhx8" version="14.1.2" type="github">
+  <diagram id="TcDBp-x5wX-hLU5BOLYg" name="Page-1">
+    <mxGraphModel dx="1151" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;5G 直播系统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A98FF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cu19Y9O4YaZAG5pQ2-J6-1" target="Cu19Y9O4YaZAG5pQ2-J6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;平台管理端&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-7" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;景区列表&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-8" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;景区详情页&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-9" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;景区编辑页&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-10" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;个人中心&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;景区管理端&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" vertex="1" parent="1">
+          <mxGeometry x="366" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-12" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;直播列表&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-13" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;直播详情页&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-14" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;直播项编辑页&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-15" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;个人中心&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;客户端&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" vertex="1" parent="1">
+          <mxGeometry x="539" y="143" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-17" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;景区列表&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="193" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-18" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;直播列表&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="233" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu19Y9O4YaZAG5pQ2-J6-19" value="&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;直播详情页&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="273" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
