@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T08:43:39.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0wAk42_dG8fHASyPXngl" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T08:46:13.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="v05FwrJyaN_3T_WaCH-s" version="14.1.2" type="github">
   <diagram id="EQ-d3LctLsmjUuR-HLJK" name="Page-1">
     <mxGraphModel dx="1151" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,11 @@
         <mxCell id="MZXS-yms_pOTbemnmi6H-4" value="配置接入的景区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MZXS-yms_pOTbemnmi6H-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZXS-yms_pOTbemnmi6H-5" target="MZXS-yms_pOTbemnmi6H-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MZXS-yms_pOTbemnmi6H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="503" y="232" as="sourcePoint" />
+            <mxPoint x="608" y="232" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MZXS-yms_pOTbemnmi6H-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="383" y="200" width="120" height="40" as="geometry" />
@@ -41,7 +44,16 @@
           <mxGeometry x="608" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MZXS-yms_pOTbemnmi6H-13" value="请求直播视频流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="518" y="190" width="60" height="20" as="geometry" />
+          <mxGeometry x="522" y="242" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603" y="219" as="sourcePoint" />
+            <mxPoint x="503" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-17" value="返回视频流数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
