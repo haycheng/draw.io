@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T08:34:34.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.1.2" etag="VAO0D0_WvnWzYYoHEOQo" type="github"><diagram id="EQ-d3LctLsmjUuR-HLJK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T08:43:39.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0wAk42_dG8fHASyPXngl" version="14.1.2" type="github">
+  <diagram id="EQ-d3LctLsmjUuR-HLJK" name="Page-1">
+    <mxGraphModel dx="1151" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MZXS-yms_pOTbemnmi6H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZXS-yms_pOTbemnmi6H-1" target="MZXS-yms_pOTbemnmi6H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;平台管理端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZXS-yms_pOTbemnmi6H-2" target="MZXS-yms_pOTbemnmi6H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;景区管理端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-4" value="配置接入的景区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZXS-yms_pOTbemnmi6H-5" target="MZXS-yms_pOTbemnmi6H-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="383" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-7" value="配置直播项" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZXS-yms_pOTbemnmi6H-8" target="MZXS-yms_pOTbemnmi6H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-8" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="80" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-10" value="观看直播" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;外部系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="608" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZXS-yms_pOTbemnmi6H-13" value="请求直播视频流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="518" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
