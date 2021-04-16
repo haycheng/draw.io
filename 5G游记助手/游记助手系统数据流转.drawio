@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T06:16:19.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kVCZXtX9LGRqKxn-bCo5" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T06:20:51.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="E-dpcAIrayP7xRvLSoUe" version="14.5.10" type="github">
   <diagram id="WlPiGuOiPXyBFmJKsj1e" name="Page-1">
     <mxGraphModel dx="1151" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,49 +20,28 @@
           <mxGeometry x="150" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6J_aTvsIoqjm8uLrtSqi-5" value="管理接入的景区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="270" width="60" height="20" as="geometry" />
+          <mxGeometry x="210" y="265" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="180" as="sourcePoint" />
-            <mxPoint x="715" y="180" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6J_aTvsIoqjm8uLrtSqi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6J_aTvsIoqjm8uLrtSqi-7" target="6J_aTvsIoqjm8uLrtSqi-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6J_aTvsIoqjm8uLrtSqi-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="148" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="225" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6J_aTvsIoqjm8uLrtSqi-8" value="查看当前景区的游记" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="305" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6J_aTvsIoqjm8uLrtSqi-10" target="6J_aTvsIoqjm8uLrtSqi-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-10" value="&lt;b&gt;用户&lt;/b&gt;" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="28" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-11" value="观看直播" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="108" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;外部系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="715" y="148" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-13" value="请求直播视频流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="629" y="190" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="167" as="sourcePoint" />
-            <mxPoint x="610" y="167" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6J_aTvsIoqjm8uLrtSqi-15" value="返回视频流数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="627" y="138" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6J_aTvsIoqjm8uLrtSqi-16" value="数据存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="414" y="230" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6J_aTvsIoqjm8uLrtSqi-19" value="管理用户、游记、投诉等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="184" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6J_aTvsIoqjm8uLrtSqi-21" value="写游记，看游记" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6J_aTvsIoqjm8uLrtSqi-24" value="收藏，点赞，投诉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="280" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
