@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T09:32:58.878Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1tiVSCYiqevricALdqzZ" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T09:33:55.475Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="aykoqmSx9GbyVYp1Cue9" version="14.8.3" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="1574" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -140,8 +140,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-18" value="快交柜台服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="290" width="120" height="50" as="geometry" />
+        <mxCell id="GFzgaptC59pULxbVYTi3-18" value="快交柜台服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-19" target="GFzgaptC59pULxbVYTi3-13">
           <mxGeometry relative="1" as="geometry" />
@@ -151,8 +151,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-19" value="行情柜台服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="290" width="120" height="50" as="geometry" />
+        <mxCell id="GFzgaptC59pULxbVYTi3-19" value="行情柜台服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="990" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-36" value="行情数据" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="565" width="60" height="20" as="geometry" />
@@ -188,12 +188,6 @@
           <mxGeometry x="-0.4244" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-63" value="快交柜台服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="740" y="310" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-64" value="行情柜台服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="990" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-9" target="GFzgaptC59pULxbVYTi3-13">
           <mxGeometry relative="1" as="geometry">
