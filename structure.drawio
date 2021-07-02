@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T09:05:10.973Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6c8wgEXGELJP1lihCAgn" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T09:07:28.819Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ZRtDti2K_ashJYKzeSXR" version="14.8.3" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="1574" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -20,16 +20,24 @@
           <mxGeometry x="540" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-6" value="云主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="670" width="120" height="50" as="geometry" />
+          <mxGeometry x="290" y="740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="160" height="170" as="geometry" />
+          <mxGeometry x="280" y="480" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GFzgaptC59pULxbVYTi3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-8" target="GFzgaptC59pULxbVYTi3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFzgaptC59pULxbVYTi3-40" value="打新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-39">
+          <mxGeometry x="0.2189" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-8" value="CmbTrans" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-9" value="MarketInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="300" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-10" value="LupWatch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="600" width="120" height="40" as="geometry" />
@@ -76,21 +84,16 @@
         <mxCell id="GFzgaptC59pULxbVYTi3-16" value="银行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="505" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="610" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="160" y="570" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="GFzgaptC59pULxbVYTi3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-33" value="行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-32">
-          <mxGeometry x="-0.0985" y="1" relative="1" as="geometry">
-            <mxPoint x="7" y="-14" as="offset" />
+        <mxCell id="GFzgaptC59pULxbVYTi3-42" value="当前行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-41">
+          <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-17" value="通达信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="555" width="120" height="30" as="geometry" />
+          <mxGeometry x="30" y="665" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-13">
           <mxGeometry relative="1" as="geometry" />
