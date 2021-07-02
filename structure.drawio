@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T10:30:04.974Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7mjnGyovzVT_vGjjKjd9" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T10:30:28.434Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="V6i5ItiKdlNK874knu6Z" version="14.8.3" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="1574" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-35" value="购买理财" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-34">
           <mxGeometry x="-0.0917" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="23" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.991;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-9">
