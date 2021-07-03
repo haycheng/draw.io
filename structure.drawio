@@ -1,30 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T10:30:40.611Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="TXvyx9I3WCGz9Ei1Hmvj" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T01:41:03.741Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="snWvKeGFX2-JqdHmfhsq" version="14.8.3" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
-    <mxGraphModel dx="1574" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GFzgaptC59pULxbVYTi3-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="840" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="800" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-3" target="GFzgaptC59pULxbVYTi3-17">
+        <mxCell id="GFzgaptC59pULxbVYTi3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-3" target="GFzgaptC59pULxbVYTi3-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-76" value="实时查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-75">
+        <mxCell id="GFzgaptC59pULxbVYTi3-76" value="实时查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-75" vertex="1" connectable="0">
           <mxGeometry x="0.005" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-3" value="FlashOrder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-3" value="FlashOrder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="820" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-4" value="LupSell 客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-4" value="LupSell 客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-5">
+        <mxCell id="GFzgaptC59pULxbVYTi3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="955" as="sourcePoint" />
             <mxPoint x="800" y="400" as="targetPoint" />
@@ -34,18 +34,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-58" value="买入委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-56">
+        <mxCell id="GFzgaptC59pULxbVYTi3-58" value="买入委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-56" vertex="1" connectable="0">
           <mxGeometry x="-0.495" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-281" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-5" value="Lup 买入控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-5" value="Lup 买入控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="250" width="160" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-8" target="GFzgaptC59pULxbVYTi3-18">
+        <mxCell id="GFzgaptC59pULxbVYTi3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-8" target="GFzgaptC59pULxbVYTi3-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="300" />
@@ -53,49 +53,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-84" value="查询资产，打新，接收新委托、新成交消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-39">
+        <mxCell id="GFzgaptC59pULxbVYTi3-84" value="查询资产，打新，接收新委托、新成交消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-39" vertex="1" connectable="0">
           <mxGeometry x="0.2158" relative="1" as="geometry">
             <mxPoint x="-29" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0.491;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-10">
+        <mxCell id="GFzgaptC59pULxbVYTi3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=1;exitY=0.491;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="660" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-80" value="查询 LEVEL2 行情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-44">
+        <mxCell id="GFzgaptC59pULxbVYTi3-80" value="查询 LEVEL2 行情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-44" vertex="1" connectable="0">
           <mxGeometry x="-0.0597" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-86">
+        <mxCell id="GFzgaptC59pULxbVYTi3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-49" value="转账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-48">
+        <mxCell id="GFzgaptC59pULxbVYTi3-49" value="转账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-48" vertex="1" connectable="0">
           <mxGeometry x="0.1625" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-8" target="GFzgaptC59pULxbVYTi3-17">
+        <mxCell id="GFzgaptC59pULxbVYTi3-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-8" target="GFzgaptC59pULxbVYTi3-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-93" value="查询 LEVEL1 行情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-91">
+        <mxCell id="GFzgaptC59pULxbVYTi3-93" value="查询 LEVEL1 行情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-91" vertex="1" connectable="0">
           <mxGeometry x="-0.2162" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-8" value="CmbTrans" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-8" value="CmbTrans" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-9" value="MarketInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-9" value="MarketInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="565" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-10" target="GFzgaptC59pULxbVYTi3-5">
+        <mxCell id="GFzgaptC59pULxbVYTi3-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-10" target="GFzgaptC59pULxbVYTi3-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="460" />
@@ -103,54 +103,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-79" value="小卖单、&lt;br&gt;小撤单提示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-78">
+        <mxCell id="GFzgaptC59pULxbVYTi3-79" value="小卖单、&lt;br&gt;小撤单提示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-78" vertex="1" connectable="0">
           <mxGeometry x="-0.0651" y="-1" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-10" value="LupWatch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-10" value="LupWatch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="490" width="160" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-11" value="券商物理机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-11" value="券商物理机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="880" y="680" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-13" target="GFzgaptC59pULxbVYTi3-14">
+        <mxCell id="GFzgaptC59pULxbVYTi3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GFzgaptC59pULxbVYTi3-13" target="GFzgaptC59pULxbVYTi3-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-13" target="GFzgaptC59pULxbVYTi3-18">
+        <mxCell id="GFzgaptC59pULxbVYTi3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-13" target="GFzgaptC59pULxbVYTi3-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-23" value="下达、撤销委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-22">
+        <mxCell id="GFzgaptC59pULxbVYTi3-23" value="下达、撤销委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-22" vertex="1" connectable="0">
           <mxGeometry x="-0.2148" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-13" value="Leo主程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-13" value="Leo主程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="880" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-14" target="GFzgaptC59pULxbVYTi3-2">
+        <mxCell id="GFzgaptC59pULxbVYTi3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-14" target="GFzgaptC59pULxbVYTi3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-54" value="广播最新的行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-46">
+        <mxCell id="GFzgaptC59pULxbVYTi3-54" value="广播最新的行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-46" vertex="1" connectable="0">
           <mxGeometry x="0.5048" y="3" relative="1" as="geometry">
             <mxPoint x="17" y="-78" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-14" value="Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-14" value="Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="880" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-47" target="GFzgaptC59pULxbVYTi3-8">
+        <mxCell id="GFzgaptC59pULxbVYTi3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-47" target="GFzgaptC59pULxbVYTi3-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-35" value="购买理财" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-34">
+        <mxCell id="GFzgaptC59pULxbVYTi3-35" value="购买理财" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-34" vertex="1" connectable="0">
           <mxGeometry x="-0.0917" y="3" relative="1" as="geometry">
             <mxPoint x="43" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.991;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-9">
+        <mxCell id="GFzgaptC59pULxbVYTi3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.991;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GFzgaptC59pULxbVYTi3-17" target="GFzgaptC59pULxbVYTi3-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85" y="610" as="sourcePoint" />
             <Array as="points">
@@ -158,23 +158,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-42" value="8:56 初始化行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-41">
+        <mxCell id="GFzgaptC59pULxbVYTi3-42" value="8:56 初始化行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-41" vertex="1" connectable="0">
           <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
             <mxPoint x="11" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-17" value="通达信" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-17" value="通达信" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="325" width="110" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-13">
+        <mxCell id="GFzgaptC59pULxbVYTi3-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-27" value="指令执行结果、&lt;br&gt;成交回报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-25">
+        <mxCell id="GFzgaptC59pULxbVYTi3-27" value="指令执行结果、&lt;br&gt;成交回报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-25" vertex="1" connectable="0">
           <mxGeometry x="-0.277" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-10">
+        <mxCell id="GFzgaptC59pULxbVYTi3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-18" target="GFzgaptC59pULxbVYTi3-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="310" />
@@ -183,32 +183,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-82" value="查询持仓数据，接收新委托消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-81">
+        <mxCell id="GFzgaptC59pULxbVYTi3-82" value="查询持仓数据，接收新委托消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-81" vertex="1" connectable="0">
           <mxGeometry x="-0.38" y="3" relative="1" as="geometry">
             <mxPoint x="-153" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-18" value="快交柜台" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-18" value="快交柜台" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="760" y="220" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-19" target="GFzgaptC59pULxbVYTi3-13">
+        <mxCell id="GFzgaptC59pULxbVYTi3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-19" target="GFzgaptC59pULxbVYTi3-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-30" value="全市场逐笔委托、&lt;br&gt;逐笔成交、快照、&lt;br&gt;状态（校时）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-28">
+        <mxCell id="GFzgaptC59pULxbVYTi3-30" value="全市场逐笔委托、&lt;br&gt;逐笔成交、快照、&lt;br&gt;状态（校时）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-28" vertex="1" connectable="0">
           <mxGeometry x="-0.4136" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-19" value="行情服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-19" value="行情服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1030" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-36" value="行情数据" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-36" value="行情数据" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="565" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-47" value="银行" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="540" y="120" width="120" height="30" as="geometry" />
+        <mxCell id="GFzgaptC59pULxbVYTi3-47" value="银行" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="107" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-3" target="GFzgaptC59pULxbVYTi3-18">
+        <mxCell id="GFzgaptC59pULxbVYTi3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="GFzgaptC59pULxbVYTi3-3" target="GFzgaptC59pULxbVYTi3-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="820" as="sourcePoint" />
             <Array as="points">
@@ -218,12 +218,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-77" value="查询持仓、委托情况，下委托单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-51">
+        <mxCell id="GFzgaptC59pULxbVYTi3-77" value="查询持仓、委托情况，下委托单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-51" vertex="1" connectable="0">
           <mxGeometry x="0.205" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-4" target="GFzgaptC59pULxbVYTi3-71">
+        <mxCell id="GFzgaptC59pULxbVYTi3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-4" target="GFzgaptC59pULxbVYTi3-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="910" y="890" />
@@ -231,12 +231,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-57" value="卖出委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-55">
+        <mxCell id="GFzgaptC59pULxbVYTi3-57" value="卖出委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-55" vertex="1" connectable="0">
           <mxGeometry x="-0.4244" y="-1" relative="1" as="geometry">
             <mxPoint x="124" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-9">
+        <mxCell id="GFzgaptC59pULxbVYTi3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="530" as="targetPoint" />
             <Array as="points">
@@ -244,15 +244,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-69" value="日初始化文件&lt;br&gt;mktinitinfo.sia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-68">
+        <mxCell id="GFzgaptC59pULxbVYTi3-69" value="日初始化文件&lt;br&gt;mktinitinfo.sia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="GFzgaptC59pULxbVYTi3-68" vertex="1" connectable="0">
           <mxGeometry x="-0.1839" y="2" relative="1" as="geometry">
             <mxPoint x="109" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=none;startFill=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-71" target="GFzgaptC59pULxbVYTi3-19">
+        <mxCell id="GFzgaptC59pULxbVYTi3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-71" target="GFzgaptC59pULxbVYTi3-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=none;startFill=0;entryX=1.017;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-71" target="GFzgaptC59pULxbVYTi3-18">
+        <mxCell id="GFzgaptC59pULxbVYTi3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=none;startFill=0;entryX=1.017;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GFzgaptC59pULxbVYTi3-71" target="GFzgaptC59pULxbVYTi3-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1190" y="890" />
@@ -260,40 +260,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-104" value="卖出委托单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-73">
+        <mxCell id="GFzgaptC59pULxbVYTi3-104" value="卖出委托单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="GFzgaptC59pULxbVYTi3-73" vertex="1" connectable="0">
           <mxGeometry x="0.6537" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-71" value="LupSell 服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-71" value="LupSell 服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1030" y="870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-5" target="GFzgaptC59pULxbVYTi3-14">
+        <mxCell id="GFzgaptC59pULxbVYTi3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-5" target="GFzgaptC59pULxbVYTi3-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-103" value="获取最新的行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-74">
+        <mxCell id="GFzgaptC59pULxbVYTi3-103" value="获取最新的行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="GFzgaptC59pULxbVYTi3-74" vertex="1" connectable="0">
           <mxGeometry x="-0.5931" y="1" relative="1" as="geometry">
             <mxPoint x="42" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" edge="1" parent="1" source="GFzgaptC59pULxbVYTi3-86" target="GFzgaptC59pULxbVYTi3-47">
+        <mxCell id="GFzgaptC59pULxbVYTi3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-86" target="GFzgaptC59pULxbVYTi3-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-95" value="转账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFzgaptC59pULxbVYTi3-87">
+        <mxCell id="GFzgaptC59pULxbVYTi3-95" value="转账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-87" vertex="1" connectable="0">
           <mxGeometry x="0.1064" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-86" value="集中柜台" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="760" y="160" width="120" height="30" as="geometry" />
+        <mxCell id="GFzgaptC59pULxbVYTi3-86" value="集中柜台" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="760" y="151" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-6" value="云主机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-6" value="云主机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="300" y="670" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-102" value="云主机 / 虚拟机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-102" value="云主机 / 虚拟机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1030" y="930" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-1" value="本地主机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-1" value="本地主机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="540" y="990" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
