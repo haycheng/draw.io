@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T02:55:42.755Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="FRyS8R9L-rxI4HmWZyVe" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T03:02:41.287Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Mk9S63rgQjM-IwXa1fBN" version="14.8.3" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="1673" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -131,10 +131,10 @@
         <mxCell id="GFzgaptC59pULxbVYTi3-13" value="Leo主程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="880" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-14" target="GFzgaptC59pULxbVYTi3-2" edge="1">
+        <mxCell id="GFzgaptC59pULxbVYTi3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-14" target="GFzgaptC59pULxbVYTi3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-54" value="广播最新的行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-46" vertex="1" connectable="0">
+        <mxCell id="GFzgaptC59pULxbVYTi3-54" value="查询(C-&amp;gt;S)、&lt;br&gt;推送(S-&amp;gt;C)&lt;br&gt;最新行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-46" vertex="1" connectable="0">
           <mxGeometry x="0.5048" y="3" relative="1" as="geometry">
             <mxPoint x="17" y="-78" as="offset" />
           </mxGeometry>
@@ -276,14 +276,6 @@
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-71" value="LupSell 服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1030" y="870" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-5" target="GFzgaptC59pULxbVYTi3-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-103" value="获取最新的行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="GFzgaptC59pULxbVYTi3-74" vertex="1" connectable="0">
-          <mxGeometry x="-0.5931" y="1" relative="1" as="geometry">
-            <mxPoint x="42" y="1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="GFzgaptC59pULxbVYTi3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=classic;startFill=1;" parent="1" source="GFzgaptC59pULxbVYTi3-86" target="GFzgaptC59pULxbVYTi3-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
