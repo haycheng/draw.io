@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T08:17:24.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zdnjKLX6P5cvSJIS_Yw1" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T08:18:30.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="01L6hDuv5CrKKCA28evh" version="14.8.4" type="github">
   <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
     <mxGraphModel dx="1121" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
           <mxGeometry x="548" y="385" width="90" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-103" value="在刚买入不久后就跌，是否考虑在跌幅不大时，&lt;br&gt;继续持有一段时间，以观看行情？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="160" width="270" height="30" as="geometry" />
+          <mxGeometry x="840" y="160" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
