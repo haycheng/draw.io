@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T11:24:24.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RzJ9JpzIloNKyRwnMKlz" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T11:27:27.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tCvCMCoMj3LuxTJl6_jY" version="14.8.4" type="github">
   <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
     <mxGraphModel dx="1121" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-78" value="本次价格是否低于成本价，或按本次跌幅计算，下次价格是否会到达成本价？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-78" value="本次价格是否低于止损价（&lt;font color=&quot;#ff0000&quot;&gt;，或按本次跌幅计算，下次价格是否会到达止损价&lt;/font&gt;）？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="374" y="759.5" width="168" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Ceq1OB2dmYE29qhMk_X-82">
