@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T11:45:43.817Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fjLHjBNMgdgDhnfP4WcT" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T11:51:41.722Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ScXtkqu3K8EzEBiBD4S8" version="14.8.4" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="1055" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -323,6 +323,42 @@
           <mxGeometry x="-0.0651" y="-1" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YGjzsFuAqEHbAgfM_WPp-2" target="YGjzsFuAqEHbAgfM_WPp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGjzsFuAqEHbAgfM_WPp-2" target="YGjzsFuAqEHbAgfM_WPp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGjzsFuAqEHbAgfM_WPp-2" target="YGjzsFuAqEHbAgfM_WPp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;通达信在&lt;span lang=&quot;EN-US&quot;&gt;8:50 - 8:52&lt;/span&gt;完成数据准备&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-3" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 7.5pt&quot;&gt;MarketInfo&lt;/span&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;在&lt;span lang=&quot;EN-US&quot; style=&quot;color: red&quot;&gt;8:56&lt;/span&gt;向通达信查询当日全市场行情数据&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1200" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-4" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;LupWatch&lt;/span&gt;（&lt;span style=&quot;color: red&quot;&gt;自启动？&lt;/span&gt;）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1315" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-5" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;FlashOrder&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.812;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YGjzsFuAqEHbAgfM_WPp-5" target="YGjzsFuAqEHbAgfM_WPp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-10" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;Market&lt;/span&gt;程序&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;Leo&lt;/span&gt;主程序（依赖&lt;span lang=&quot;EN-US&quot;&gt;MarketInfo&lt;/span&gt;的数据）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-12" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;LupSell&lt;/span&gt;服务端（依赖MarketInfo的数据，&lt;font color=&quot;#ff0000&quot;&gt;定时任务启动？&lt;/font&gt;）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YGjzsFuAqEHbAgfM_WPp-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;LupSell&lt;/span&gt;客户端&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
