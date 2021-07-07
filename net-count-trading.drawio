@@ -1,1 +1,214 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T13:30:36.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="CDwsjz8wFguXoCLKzJNr" version="14.8.4" type="github"><diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-07T13:59:32.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="dJRVhBPPprkceelSY_ug" version="14.8.4" type="github">
+  <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
+    <mxGraphModel dx="1361" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-1" target="_Ceq1OB2dmYE29qhMk_X-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="36.5" y="40" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-2" target="_Ceq1OB2dmYE29qhMk_X-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-2" value="统计单位时间内的交易数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="18" y="150" width="123" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-3" target="_Ceq1OB2dmYE29qhMk_X-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-3" target="_Ceq1OB2dmYE29qhMk_X-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-3" value="为起始时刻？或与上次统计时间间隔太长？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="29.5" y="240" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="79.5" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="388" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-4" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-4" value="【上升计数】为0，更新【前次价格】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="255" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-17" value="不交易" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="338" y="255" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-29" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-24" target="_Ceq1OB2dmYE29qhMk_X-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-24" target="_Ceq1OB2dmYE29qhMk_X-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="487" as="sourcePoint" />
+            <mxPoint x="79.5" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.0811" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-24" value="本次与【前次价格】的差值是否显著？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="30" y="367" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-28" target="_Ceq1OB2dmYE29qhMk_X-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-28" value="【上升计数】、【前次价格】均不变" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="169.5" y="382" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-32" target="_Ceq1OB2dmYE29qhMk_X-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-37" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.3465" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-46" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-32" target="_Ceq1OB2dmYE29qhMk_X-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-32" value="本次是否高于【前次价格】？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="30" y="500" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-35" target="_Ceq1OB2dmYE29qhMk_X-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-35" value="【上升计数】加1，更新【前次价格】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="174.5" y="507.5" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-38" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="545" />
+              <mxPoint x="458" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.2644" y="-1" relative="1" as="geometry">
+            <mxPoint x="-29" y="71" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-43" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-38" target="_Ceq1OB2dmYE29qhMk_X-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-38" value="【上升计数】是否大于或等于买入阈值？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="308" y="500" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="78" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="673" y="626" />
+              <mxPoint x="673" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-42" value="买入" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="430" y="600" width="90" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9dohXg2FG20YzdyysSwt-2" target="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="758" y="280" as="targetPoint" />
+            <mxPoint x="270" y="730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="565" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-81" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.7836" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="9dohXg2FG20YzdyysSwt-2" target="_Ceq1OB2dmYE29qhMk_X-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dohXg2FG20YzdyysSwt-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Ceq1OB2dmYE29qhMk_X-80">
+          <mxGeometry x="-0.1776" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dohXg2FG20YzdyysSwt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_Ceq1OB2dmYE29qhMk_X-45" target="9dohXg2FG20YzdyysSwt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-45" value="【上升计数】减1，更新【前次价格】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="634.5" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-78" target="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-84" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-83" vertex="1" connectable="0">
+          <mxGeometry x="-0.0352" relative="1" as="geometry">
+            <mxPoint x="-127" y="49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dohXg2FG20YzdyysSwt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Ceq1OB2dmYE29qhMk_X-78" target="_Ceq1OB2dmYE29qhMk_X-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="224" y="880" />
+              <mxPoint x="640" y="880" />
+              <mxPoint x="640" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-78" value="本次价格是否低于止损价（&lt;font color=&quot;#ff0000&quot;&gt;，或按本次跌幅计算，下次价格是否会到达止损价&lt;/font&gt;）？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="140" y="760" width="168" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-95" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-98" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-97" vertex="1" connectable="0">
+          <mxGeometry x="-0.0857" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-100" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-95" target="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-95" value="本次为下跌，且当前价格低于或等于止损价？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="337.5" y="367" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-99" value="卖出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="385.75" width="90" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-103" value="在刚买入不久后就跌，是否考虑在跌幅不大时，&lt;br&gt;继续持有一段时间，以观看行情？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="160" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dohXg2FG20YzdyysSwt-2" value="【上升计数】是否低于或等于卖出阈值？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="627" width="100" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
