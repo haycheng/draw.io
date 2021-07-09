@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T01:00:58.002Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-W0mRT6cGR56g4H3QEjm" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T00:51:51.512Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ls3cm8Ic0O5M9ItPM0ve" version="14.8.4" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
-    <mxGraphModel dx="1055" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
         <mxCell id="GFzgaptC59pULxbVYTi3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="GFzgaptC59pULxbVYTi3-13" target="GFzgaptC59pULxbVYTi3-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFzgaptC59pULxbVYTi3-23" value="下达、撤销委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-22" vertex="1" connectable="0">
+        <mxCell id="GFzgaptC59pULxbVYTi3-23" value="买入委托、撤销&lt;br&gt;买入、集卖委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFzgaptC59pULxbVYTi3-22" vertex="1" connectable="0">
           <mxGeometry x="-0.2148" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
