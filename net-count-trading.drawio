@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T14:34:28.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Izx42Q7TffxN7RcJQ9Ps" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T14:56:17.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zNIlpGRJm-tZbi61MwM1" version="14.8.4" type="github">
   <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
     <mxGraphModel dx="1396" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -262,8 +262,10 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dohXg2FG20YzdyysSwt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-12" target="9dohXg2FG20YzdyysSwt-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9dohXg2FG20YzdyysSwt-23" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-12" target="9dohXg2FG20YzdyysSwt-21">
+          <mxGeometry x="-0.58" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-12" value="本次价格相对最近一段时间内的最高价格的跌幅是否大于阈值b？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="29.5" y="500" width="100" height="90" as="geometry" />
