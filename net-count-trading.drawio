@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T02:32:38.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XSsxgUc6blR-ycd3tKd5" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T02:32:58.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4LPB961w1GsYU3sX88Gg" version="14.8.4" type="github">
   <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
     <mxGraphModel dx="1396" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-45" value="【上涨计数】减1，更新【前次价格】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="24.75" y="1088.63" width="109.5" height="54.75" as="geometry" />
+          <mxGeometry x="22.38" y="1088.6200000000001" width="114.25" height="54.75" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9dohXg2FG20YzdyysSwt-21" target="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
           <mxGeometry relative="1" as="geometry">
