@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T02:36:46.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1cMYtnNVXofeWKWZ5ALC" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T02:37:25.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-vepbw0gXBeLK5EksfxM" version="14.8.4" type="github">
   <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
     <mxGraphModel dx="1396" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -172,18 +172,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="557" />
+              <mxPoint x="900" y="545" />
               <mxPoint x="900" y="110" />
             </Array>
             <mxPoint x="860" y="557" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-99" value="卖出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="710" y="512.18" width="150" height="65.64" as="geometry" />
+          <mxGeometry x="730" y="521.09" width="110" height="47.82" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-103" value="在刚买入不久后就跌，是否考虑在跌幅不大时，&lt;br&gt;继续持有一段时间，以观看行情？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="-60" width="270" height="30" as="geometry" />
