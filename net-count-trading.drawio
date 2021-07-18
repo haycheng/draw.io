@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T15:40:32.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6zFP7o364-DABQh4KQkj" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T02:22:36.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vH1-bY7EnETotTdjvDz8" version="14.8.4" type="github">
   <diagram id="2ZFNNBM-ACg8ZISX8_SK" name="Page-1">
     <mxGraphModel dx="1396" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="79.5" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1130" y="547" />
+              <mxPoint x="1130" y="856" />
               <mxPoint x="1130" y="110" />
             </Array>
           </mxGeometry>
@@ -51,15 +51,15 @@
           <mxGeometry x="179.5" y="255" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-17" value="不交易" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="517.1800000000001" width="100" height="60" as="geometry" />
+          <mxGeometry x="1000" y="826" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-29" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-24" target="_Ceq1OB2dmYE29qhMk_X-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-24" target="_Ceq1OB2dmYE29qhMk_X-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="139.5" y="900" as="sourcePoint" />
-            <mxPoint x="79" y="908" as="targetPoint" />
+            <mxPoint x="139.5" y="931" as="sourcePoint" />
+            <mxPoint x="79" y="939" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-50" vertex="1" connectable="0">
@@ -68,10 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-24" value="本次与【前次价格】的差值是否显著？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="29.5" y="780" width="100" height="90" as="geometry" />
+          <mxGeometry x="29.5" y="811" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-28" value="【上涨计数】、【前次价格】均不变" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="169" y="795" width="110" height="60" as="geometry" />
+          <mxGeometry x="169" y="826" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-32" target="_Ceq1OB2dmYE29qhMk_X-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,18 +85,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-32" value="本次是否高于【前次价格】？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="29.5" y="913" width="100" height="90" as="geometry" />
+          <mxGeometry x="29.5" y="944" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-35" target="_Ceq1OB2dmYE29qhMk_X-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-35" value="【上涨计数】加1，更新【前次价格】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="174" y="920.5" width="100" height="75" as="geometry" />
+          <mxGeometry x="174" y="951.5" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-38" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-38" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="781" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1050" y="958" />
+              <mxPoint x="1025" y="989" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,30 +106,40 @@
             <mxPoint x="-317" y="261" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-43" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-38" target="_Ceq1OB2dmYE29qhMk_X-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9dohXg2FG20YzdyysSwt-45" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Ceq1OB2dmYE29qhMk_X-40">
+          <mxGeometry x="-0.9246" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-43" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-38" target="_Ceq1OB2dmYE29qhMk_X-42" edge="1">
+          <mxGeometry x="-0.8619" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="880" />
+              <mxPoint x="545" y="880" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-38" value="【上涨计数】是否大于或等于买入阈值d？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="329.5" y="913" width="100" height="90" as="geometry" />
+          <mxGeometry x="495" y="944" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-42" edge="1">
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="78" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="557" />
-              <mxPoint x="480" y="110" />
+              <mxPoint x="545" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-42" value="买入" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="537.1800000000001" width="90" height="40" as="geometry" />
+          <mxGeometry x="500" y="395.00000000000006" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9dohXg2FG20YzdyysSwt-2" edge="1">
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9dohXg2FG20YzdyysSwt-2" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="580" as="targetPoint" />
-            <mxPoint x="269.5" y="1003" as="sourcePoint" />
+            <mxPoint x="1050" y="791" as="targetPoint" />
+            <mxPoint x="269.5" y="1034" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1050" y="1085" />
+              <mxPoint x="1050" y="1116" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,24 +152,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-45" value="【上涨计数】减1，更新【前次价格】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="29.5" y="1047.5" width="100" height="75" as="geometry" />
+          <mxGeometry x="29.5" y="1078.5" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9dohXg2FG20YzdyysSwt-21" target="_Ceq1OB2dmYE29qhMk_X-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="307.5" y="1218" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-28" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
+        <mxCell id="_Ceq1OB2dmYE29qhMk_X-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Ceq1OB2dmYE29qhMk_X-28" target="_Ceq1OB2dmYE29qhMk_X-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="387" y="870" as="sourcePoint" />
+            <mxPoint x="387" y="901" as="sourcePoint" />
+            <mxPoint x="1050" y="781" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1050" y="825" />
+              <mxPoint x="970" y="856" />
+              <mxPoint x="970" y="856" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Ceq1OB2dmYE29qhMk_X-98" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_Ceq1OB2dmYE29qhMk_X-97" vertex="1" connectable="0">
-          <mxGeometry x="-0.0857" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -172,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-99" value="卖出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="710" y="524.37" width="150" height="65.64" as="geometry" />
+          <mxGeometry x="710" y="512.18" width="150" height="65.64" as="geometry" />
         </mxCell>
         <mxCell id="_Ceq1OB2dmYE29qhMk_X-103" value="在刚买入不久后就跌，是否考虑在跌幅不大时，&lt;br&gt;继续持有一段时间，以观看行情？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="-60" width="270" height="30" as="geometry" />
@@ -186,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-2" value="【上涨计数】是否低于或等于卖出阈值e？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1040" width="100" height="90" as="geometry" />
+          <mxGeometry x="174" y="1071" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-8" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-6" target="9dohXg2FG20YzdyysSwt-9">
           <mxGeometry relative="1" as="geometry">
@@ -204,7 +212,7 @@
         <mxCell id="9dohXg2FG20YzdyysSwt-6" value="本次价格是否大于【前次价格】？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="29.5" y="370" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9dohXg2FG20YzdyysSwt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-9" target="_Ceq1OB2dmYE29qhMk_X-42">
+        <mxCell id="9dohXg2FG20YzdyysSwt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-9" target="_Ceq1OB2dmYE29qhMk_X-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9dohXg2FG20YzdyysSwt-10">
@@ -236,23 +244,26 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dohXg2FG20YzdyysSwt-23" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-12" target="_Ceq1OB2dmYE29qhMk_X-99">
-          <mxGeometry x="-0.58" relative="1" as="geometry">
+        <mxCell id="9dohXg2FG20YzdyysSwt-23" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-12" target="_Ceq1OB2dmYE29qhMk_X-99">
+          <mxGeometry x="-0.8605" relative="1" as="geometry">
             <mxPoint x="180" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="545" />
-              <mxPoint x="360" y="504" />
-              <mxPoint x="785" y="504" />
+              <mxPoint x="530" y="545" />
+              <mxPoint x="530" y="545" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-12" value="本次价格相对最近一段时间内的最高价格的跌幅是否大于阈值b？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="29.5" y="500" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9dohXg2FG20YzdyysSwt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-21">
+        <mxCell id="9dohXg2FG20YzdyysSwt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-21" target="_Ceq1OB2dmYE29qhMk_X-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="580" as="targetPoint" />
+            <mxPoint x="1120" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="224" y="1319" />
+              <mxPoint x="1075" y="1319" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-43" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9dohXg2FG20YzdyysSwt-42">
@@ -261,19 +272,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-21" value="当前价相对于买入价的涨幅是否大于富盈利阈值c？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1178" width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="9dohXg2FG20YzdyysSwt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_Ceq1OB2dmYE29qhMk_X-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="600" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="174" y="1209" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-24" target="_Ceq1OB2dmYE29qhMk_X-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9dohXg2FG20YzdyysSwt-35">
           <mxGeometry x="-0.0333" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dohXg2FG20YzdyysSwt-24" target="_Ceq1OB2dmYE29qhMk_X-99">
@@ -281,7 +287,7 @@
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9dohXg2FG20YzdyysSwt-37">
           <mxGeometry x="-0.6309" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-101" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9dohXg2FG20YzdyysSwt-24" value="当前价是否低于止损价？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
