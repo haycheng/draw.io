@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T07:45:53.738Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="YnxFzW50_Wo9M6ysQ5lx" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T07:48:12.066Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="yeRNVIryLZNQiV0dvIbB" version="14.9.2" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="1952" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="200000" background="none" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;通达信在&lt;span lang=&quot;EN-US&quot;&gt;8:50 - 8:52&lt;/span&gt;完成日切&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1830" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="1540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YGjzsFuAqEHbAgfM_WPp-3" target="YGjzsFuAqEHbAgfM_WPp-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -346,16 +346,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-3" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 7.5pt&quot;&gt;MarketInfo&lt;/span&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;在&lt;span lang=&quot;EN-US&quot; style=&quot;color: red&quot;&gt;8:56&lt;/span&gt;向通达信查询当日全市场行情数据，并同步给其他服务器&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1710" width="115" height="60" as="geometry" />
+          <mxGeometry x="225" y="1420" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="YGjzsFuAqEHbAgfM_WPp-4" target="YGjzsFuAqEHbAgfM_WPp-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-4" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;LupWatch&lt;/span&gt;（8:56之后&lt;font color=&quot;#ff0000&quot;&gt;定时&lt;/font&gt;&lt;span style=&quot;color: red&quot;&gt;启动&lt;/span&gt;）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1825" width="115" height="50" as="geometry" />
+          <mxGeometry x="225" y="1535" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-5" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;重启&lt;span lang=&quot;EN-US&quot;&gt;FlashOrder&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1920" width="105" height="40" as="geometry" />
+          <mxGeometry x="225" y="1630" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.812;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YGjzsFuAqEHbAgfM_WPp-5" target="YGjzsFuAqEHbAgfM_WPp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -364,28 +364,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-10" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;Market&lt;/span&gt;程序（Lup必用，Leo选用）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1650" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YGjzsFuAqEHbAgfM_WPp-11" target="YGjzsFuAqEHbAgfM_WPp-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;Leo&lt;/span&gt;主程序（依赖&lt;span lang=&quot;EN-US&quot;&gt;MarketInfo&lt;/span&gt;的数据）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1650" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YGjzsFuAqEHbAgfM_WPp-12" target="YGjzsFuAqEHbAgfM_WPp-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-12" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;LupSell&lt;/span&gt;服务端（依赖MarketInfo的数据，8:56之后&lt;font color=&quot;#ff0000&quot;&gt;定时启动&lt;/font&gt;）&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1750" width="130" height="50" as="geometry" />
+          <mxGeometry x="390" y="1460" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;LupSell&lt;/span&gt;客户端&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1755" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="1465" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-14" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt ; font-family: &amp;#34;dengxian&amp;#34;&quot;&gt;启动&lt;span lang=&quot;EN-US&quot;&gt;Lup&lt;/span&gt;买入控制端&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1830" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="1540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGjzsFuAqEHbAgfM_WPp-21" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;CmbTrans（&lt;font color=&quot;#ff0000&quot;&gt;常开&lt;/font&gt;）&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="1990" width="115" height="30" as="geometry" />
+          <mxGeometry x="225" y="1700" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3050" y="290" width="220" height="130" as="geometry" />
@@ -530,16 +530,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-85" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;VPN客户端（&lt;font color=&quot;#ff0000&quot;&gt;常开&lt;/font&gt;）&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2106" width="145" height="30" as="geometry" />
+          <mxGeometry x="225" y="1816" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-86" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;TcpBridgeServer（&lt;font color=&quot;#ff0000&quot;&gt;常开&lt;/font&gt;）&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2226" width="145" height="30" as="geometry" />
+          <mxGeometry x="225" y="1936" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-87" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;TcpBridgeClient（&lt;font color=&quot;#ff0000&quot;&gt;常开&lt;/font&gt;）&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2166" width="145" height="30" as="geometry" />
+          <mxGeometry x="225" y="1876" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-88" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 10.0pt&quot;&gt;&lt;span style=&quot;font-size: 7.5pt&quot;&gt;TimeDisp（&lt;font color=&quot;#ff0000&quot;&gt;常开?&lt;/font&gt;）&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2050" width="145" height="30" as="geometry" />
+          <mxGeometry x="225" y="1760" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-89" value="云主机&lt;br&gt;远程桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1111" width="120" height="40" as="geometry" />
