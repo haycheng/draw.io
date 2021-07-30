@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T09:41:42.534Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="XEX4c0LFqT6Po9iFnVHy" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T09:48:58.193Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="8e44UEmLYDMa3LGd7ndF" version="14.9.2" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="2004" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="200000" background="none" math="0" shadow="0">
       <root>
@@ -542,13 +542,13 @@
           <mxGeometry x="225" y="1760" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-89" value="云主机&lt;br&gt;远程桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="1111" width="120" height="40" as="geometry" />
+          <mxGeometry x="1950" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-90" value="Leo主程序&lt;br&gt;远程桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="1171" width="120" height="40" as="geometry" />
+          <mxGeometry x="2150" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-91" value="LupSell服务端&lt;br&gt;远程桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="1241" width="120" height="40" as="geometry" />
+          <mxGeometry x="2340" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KkX4r5EW4XWWtcg6vwqa-47" target="KkX4r5EW4XWWtcg6vwqa-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -675,7 +675,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-9" value="购买理财" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qzq8CHJ6MB2_HV4SmrMN-8">
+        <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-9" value="购买理财与赎回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qzq8CHJ6MB2_HV4SmrMN-8">
           <mxGeometry x="-0.0917" y="3" relative="1" as="geometry">
             <mxPoint x="57" y="668" as="offset" />
           </mxGeometry>
@@ -693,6 +693,21 @@
         <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-12" value="8:56 查询初Level1行情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qzq8CHJ6MB2_HV4SmrMN-11">
           <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
             <mxPoint x="189" y="381" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=none;startFill=0;" edge="1" parent="1" source="KkX4r5EW4XWWtcg6vwqa-5" target="KkX4r5EW4XWWtcg6vwqa-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1815" y="713.5" as="sourcePoint" />
+            <mxPoint x="1360" y="442.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="1171" />
+              <mxPoint x="1840" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-14" value="实时查询行情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qzq8CHJ6MB2_HV4SmrMN-13">
+          <mxGeometry x="0.005" y="1" relative="1" as="geometry">
+            <mxPoint x="241" y="396" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
