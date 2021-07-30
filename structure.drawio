@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T09:48:58.193Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="8e44UEmLYDMa3LGd7ndF" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T09:50:51.389Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="B_85O5pP-oOTbtg9Kt1c" version="14.9.2" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
     <mxGraphModel dx="2004" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="200000" background="none" math="0" shadow="0">
       <root>
@@ -550,22 +550,6 @@
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-91" value="LupSell服务端&lt;br&gt;远程桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2340" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KkX4r5EW4XWWtcg6vwqa-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KkX4r5EW4XWWtcg6vwqa-47" target="KkX4r5EW4XWWtcg6vwqa-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1710" y="1020" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2805" y="420" />
-              <mxPoint x="2940" y="420" />
-              <mxPoint x="2940" y="1148" />
-            </Array>
-            <mxPoint x="1668" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KkX4r5EW4XWWtcg6vwqa-93" value="推送行情数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KkX4r5EW4XWWtcg6vwqa-92" vertex="1" connectable="0">
-          <mxGeometry x="0.0552" y="1" relative="1" as="geometry">
-            <mxPoint x="-71" y="-377" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;startArrow=none;startFill=0;" parent="1" source="KkX4r5EW4XWWtcg6vwqa-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -670,14 +654,14 @@
             <mxPoint x="2367" y="122" as="sourcePoint" />
             <mxPoint x="2190" y="245" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2020" y="35" />
-              <mxPoint x="2020" y="950" />
+              <mxPoint x="1880" y="35" />
+              <mxPoint x="1880" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-9" value="购买理财与赎回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qzq8CHJ6MB2_HV4SmrMN-8">
           <mxGeometry x="-0.0917" y="3" relative="1" as="geometry">
-            <mxPoint x="57" y="668" as="offset" />
+            <mxPoint x="137" y="681" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qzq8CHJ6MB2_HV4SmrMN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KkX4r5EW4XWWtcg6vwqa-39" target="KkX4r5EW4XWWtcg6vwqa-22">
