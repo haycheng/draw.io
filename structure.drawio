@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T08:27:08.290Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="iavDVIdun9veAvZsjnK-" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T08:31:08.887Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="5thJAbU1dh9s24kQBnXL" version="14.9.3" type="github">
   <diagram id="zWjm_z63V3XgTVhYP8XZ" name="Page-1">
-    <mxGraphModel dx="1842" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="200000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="200000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,7 +443,7 @@
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-25" value="券商物理机" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3180" y="487" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KkX4r5EW4XWWtcg6vwqa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KkX4r5EW4XWWtcg6vwqa-31" target="KkX4r5EW4XWWtcg6vwqa-34" edge="1">
+        <mxCell id="KkX4r5EW4XWWtcg6vwqa-26" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;行情数据&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KkX4r5EW4XWWtcg6vwqa-31" target="KkX4r5EW4XWWtcg6vwqa-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aQ6rp8lVyRL-bfPmodI8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="KkX4r5EW4XWWtcg6vwqa-31" target="KkX4r5EW4XWWtcg6vwqa-90">
@@ -470,9 +470,6 @@
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-47" value="券商行情服务" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2740" y="309" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="KkX4r5EW4XWWtcg6vwqa-48" value="行情数据" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2600" y="556" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KkX4r5EW4XWWtcg6vwqa-49" value="银行" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2420" y="39" width="120" height="30" as="geometry" />
